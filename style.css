@@ -8,14 +8,15 @@
 
 @font-face {
   font-family: Cooper;
-  src: url(./CooperLtBTLight.ttf);
+  src: url(./cooperl.ttf);
 }
+
 
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: cooper Lt Bt WXX;
+  font-family: Cooper;
 }
 
 html,
